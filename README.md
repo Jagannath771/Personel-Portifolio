@@ -43,14 +43,14 @@ The HR Policy Assistant simplifies HR operations by automating responses to freq
 
 The Pet Classification project addresses the need for accurate pet breed identification in veterinary practices. By utilizing TensorFlow and Convolutional Neural Networks (CNN), the model achieved an impressive 92% validation accuracy. Optimized for quick training and inference, it is tailored to the fast-paced environment of veterinary clinics, delivering precise results to support effective diagnosis and treatment.
 
-![With](/Assets/CV.jpeg)
+![With](/Assets/CV.jpg)
 
 ### Customer Churn Prediction
 [Access Project](https://github.com/Jagannath771/Customer-Churn-Prediction)
 
 This project is designed to predict customer churn using a Multi-Layer Perceptron (MLP) neural network. The model was trained on a dataset containing customer information, including features such as geography, gender, age, balance, and credit score. By leveraging this data, the MLP model achieves high accuracy in predicting whether a customer is likely to churn. The application is deployed using Streamlit, providing a user-friendly interface where users can input customer details and receive real-time churn predictions. 
 
-![With](/Assets/churn.jpeg)
+![With](/Assets/churn.jpg)
 
 ## Certifications
 - Generative AI Specialization (Purdue University)
