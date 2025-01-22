@@ -62,7 +62,7 @@ This project is designed to predict customer churn using a Multi-Layer Perceptro
 - Creating impactful side projects.
 - Writing and sharing insights about technology.
 
-## Get in touch
+## My contact
 - Email: jagannathsai771@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jagannath-sai-k-5b8895199/
 - GitHub: https://github.com/Jagannath771
