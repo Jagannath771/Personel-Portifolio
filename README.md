@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, AWS, Bash
 
 ## Education						       		
-- M.S., Artificial Intelligence	| University of Cincinnati (_December 2023_)	 			        		
-- B.S., Computer Science | Vellore Institute of Technology (_June 2022_)
+- M.S., Artificial Intelligence	| University of Cincinnati (_CGPA 4.0/4.0_)	 		        		
+- B.S., Computer Science        | Vellore Institute of Technology (_CGPA 3.7/4.0_)
 
 ## Work Experience
 **Data Scientist @ Signa Group (_June 2023 - Present_)**
@@ -59,8 +59,8 @@ This project is designed to predict customer churn using a Multi-Layer Perceptro
 
 ## Hobbies
 - Exploring advancements in AI and ML.
-- Creating impactful side projects.
 - Writing and sharing insights about technology.
+- Gym
 
 ## My contact
 - Email: jagannathsai771@gmail.com
